@@ -27,11 +27,11 @@ export default async function LangLayout({
 }: {
   children: React.ReactNode;
 
-  params: Promise<{
+  params: {
     lng: string;
-  }>;
+  };
 }) {
-  const { lng } = await params;
+  const { lng } = params;
 
   return (
     <Providers>
