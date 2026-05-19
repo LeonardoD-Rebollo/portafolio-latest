@@ -1,0 +1,31 @@
+{
+  "welcome.title": "Hello, what's up, I'm",
+  "welcome.subtitle": "and this is my portfolio",
+  "button.see.proyects": "See projects",
+  "button.contact.me": "Contact me",
+  "settings.bar.themes.dark": "Dark",
+  "settings.bar.themes.light": "Light",
+  "settings.bar.themes.system": "System",
+
+  "profile.carrer": "Software Engineer",
+  "profile.sumary": "Full-Stack Developer with experience in web and mobile solutions focused on operational efficiency. A professional with the ability to transform business ideas into scalable products through agile collaboration with multidisciplinary teams.",
+  "profile.english": "Intermediate English [B1]",
+
+  "profile.skills.title": "Some skills",
+  "profile.contact.title": "Other ways to contact",
+  "tooltip.copy": "Copy to clipboard",
+
+  "projects.back": "Back",
+  "projects.notFound": "Project not found",
+  "projects.previous": "Previous project",
+  "projects.next": "Next project",
+
+  "contact.form.mail": "Email",
+  "contact.form.mail.error": "The email is required.",
+  "contact.form.mail.error2": "The email is not valid.",
+  "contact.form.message": "Message",
+  "contact.form.message.error": "The message is required.",
+  "contact.form.send": "Send",
+  "contact.form.send.success": "Email sent successfully.",
+  "contact.form.send.error": "There was an error sending the email, please try again."
+}

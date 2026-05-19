@@ -1,0 +1,122 @@
+{
+    "projects.description.dates": "Development dates",
+    "projects.description.repository": "Repository",
+    "projects.description.private": "Private",
+    "projects.description.features": "Main features",
+    "projects.description.technologies": "Technologies used",
+    "projects.description.no_tecnologies": "Technologies not found",
+    "mirror": {
+        "name": "Mirror Project",
+        "date": "2024 - Present",
+        "repository": "Private",
+        "description": "Web application for the design and management of database projects.",
+        "features": {
+            "database": "Database project management",
+            "versioning": "Version control",
+            "ai": "Artificial intelligence",
+            "databasedesign": "Database design",
+            "databaseexport": "Database export"
+        }
+    },
+    "aluvipac": {
+        "name": "Aluvipac",
+        "date": "2024 - 2024",
+        "repository": "https://github.com/LeonardoDRebollo/ALUVIPAC",
+        "description": "Website for the Aluvipac company located in Cancun.",
+        "features": {
+            "mail": "Email sending",
+            "contact": "Contact form",
+            "database": "Prisma db for the database"
+        }
+    },
+    "hrc": {
+        "name": "HRC Intern Management",
+        "date": "2024 - 2024",
+        "repository": "Private",
+        "description": "Web platform for the Hard Rock Hotel Cancun, focused on the frontend, this platform aims to be a practice management tool.",
+        "features": {
+            "practicants": "Practicants management",
+            "versioning": "Version control",
+            "ws": "Web sockets",
+            "pdf": "PDF document generation",
+            "charts": "Data visualization",
+            "charts2": "Chart visualization"
+        }
+    },
+    "banking": {
+        "name": "Banking Movile App",
+        "date": "2024 - 2024",
+        "repository": "https://github.com/LeonardoDRebollo/BanKingApp",
+        "description": "Mobile banking app made in Flutter.",
+        "features": {
+            "banking": "Mobile banking app",
+            "api": "API integration",
+            "versioning": "Version control",
+            "notifications": "Notification sending"
+        }
+    },
+    "sipse": {
+        "name": "SIPSE TVCUN Management System",
+        "date": "2023 - 2023",
+        "repository": "https://github.com/Albertofuentes00/Newsnet-sipsetv",
+        "description": "Web platform for the company SIPSE TVCUN, fullstack development of an api in C#, mysql database and a frontend in React.js, this platform aims to be a tool for news management.",
+        "features": {
+            "tables": "Interactive tables",
+            "pdf": "PDF document generation",
+            "automation": "Task automation",
+            "versioning": "Version control"
+        }
+    },
+    "acervo": {
+        "name": "Acervo Platform",
+        "date": "2023 - 2023",
+        "repository": "Private",
+        "description": "Web platform for the Universidad Politecnica de Quintana Roo, this platform aims to be a tool for the management of student memories and their publication.",
+        "features": {
+            "memories": "Student memories management",
+            "mails": "Email sending",
+            "plugins": "Plugin integration",
+            "versioning": "Version control",
+            "pdf": "PDF visualization"
+        }
+    },
+    "mythschool": {
+        "name": "MythSchool",
+        "date": "2022 - 2022",
+        "repository": "https://github.com/LeonardoDRebollo/PFmyschool",
+        "description": "Web platform for the search of educational institutions, fullstack development of an api in .NET, this platform aims to be a tool for educational institution search in the state of Quintana Roo.",
+        "features": {
+            "search": "Institution search",
+            "versioning": "Version control",
+            "form": "Contact form",
+            "api": "API in .NET",
+            "mvc": "MVC development",
+            "responsive": "Responsive design"
+        }
+    },
+    "radio": {
+        "name": "Radio Difusora",
+        "date": "2022 - 2022",
+        "repository": "Private",
+        "description": "Windows application for radio program management, school project in C#.",
+        "features": {
+            "radio": "Radio program management",
+            "xml": "XML",
+            "desktop": "Desktop application",
+            "net": ".NET",
+            "mvc": "MVC development"
+        }
+    },
+     "petmania": {
+        "name": "Petmania",
+        "date": "2019 - 2019",
+        "repository": "Private",
+        "description": "Windows application for pet management, school project in Java.",
+        "features": {
+            "pets": "Pet appointment management",
+            "versioning": "Version control",
+            "java": "Java development",
+            "desktop": "Desktop application"
+        }
+    }
+}

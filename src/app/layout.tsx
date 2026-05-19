@@ -1,28 +1,25 @@
-import type { Metadata } from "next";
 import "./globals.css";
-import Footer from "./components/footer.component";
-import { Analytics } from "@vercel/analytics/react"
 
-export const metadata: Metadata = {
-  title: "Portfolio Leonardo Rebollo",
-  description: "Portfolio de proyectos de Leonardo Daniel Rebollo Calero",
-  icons: {
-    icon: "/planet-ringed.svg", 
-  },
-};
+import { languages } from "@/i18n/settings";
+
+export async function generateStaticParams() {
+    return languages.map((lng) => ({
+        lng,
+    }));
+}
 
 export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html lang="es">
-      <body>
-        {children}
-        <Analytics />
-        <Footer />
-      </body>
-    </html>
-  );
+    children,
+    params,
+}: {
+    children: React.ReactNode;
+    params: {
+        lng: string;
+    };
+}) {
+    return (
+        <html lang={params.lng}>
+            <body>{children}</body>
+        </html>
+    );
 }

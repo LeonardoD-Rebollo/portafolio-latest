@@ -1,0 +1,31 @@
+{
+    "welcome.title": "Hola que tal, soy",
+    "welcome.subtitle": "y este es mi portafolio",
+    "button.see.proyects": "Ver proyectos",
+    "button.contact.me": "Contactame",
+
+    "settings.bar.themes.dark": "Oscuro",
+    "settings.bar.themes.light": "Claro",
+    "settings.bar.themes.system": "Sistema",
+
+    "profile.carrer": "Ingeniero en software",
+    "profile.sumary": "Desarrollador Full-Stack con experiencia en soluciones web y móviles orientadas a la eficiencia operativa. Profesionista con capacidad de transformar ideas de negocio en productos escalables mediante la colaboración ágil con equipos multidisciplinarios.",
+    "profile.english": "Ingles intermedio [B1]",
+    "profile.skills.title": "Algunas skills",
+    "profile.contact.title": "Otras formas de contacto",
+    "tooltip.copy": "Copiar al portapapeles",
+
+    "projects.back": "Volver",
+    "projects.notFound": "Proyecto no encontrado",
+    "projects.previous": "Proyecto anterior",
+    "projects.next": "Proyecto siguiente",
+
+    "contact.form.mail": "Correo electrónico",
+    "contact.form.mail.error": "El correo electrónico es requerido.",
+    "contact.form.mail.error2": "El correo electrónico no es válido.",
+    "contact.form.message": "Mensaje",
+    "contact.form.message.error": "El mensaje es requerido.",
+    "contact.form.send": "Enviar",
+    "contact.form.send.success": "Correo enviado con éxito.",
+    "contact.form.send.error": "Hubo un error al enviar el correo."
+}

@@ -1,0 +1,123 @@
+{
+    "projects.description.dates": "Fechas de desarrollo",
+    "projects.description.repository": "Repositorio",
+    "projects.description.private": "Privado",
+    "projects.description.features": "Caracteristicas principales",
+    "projects.description.technologies": "Tecnologias usadas",
+    "projects.description.no_tecnologies": "Tecnologias no encontradas",
+    "mirror": {
+        "name": "Mirror Project",
+        "date": "2024 - Presente",
+        "repository": "Privado",
+        "description": "Aplicación web para el diseño y gestión de proyectos de bases de datos.",
+        "features": {
+            "database": "Gestion de proyectos de bases de datos",
+            "versioning": "Control de versiones",
+            "ai": "Inteligencia artificial",
+            "databasedesign": "Diseño de bases de datos",
+            "databaseexport": "Exportacion de bases de datos"
+        }
+    },
+    "aluvipac": {
+        "name": "Aluvipac",
+        "date": "2024 - 2024",
+        "repository": "https://github.com/LeonardoDRebollo/ALUVIPAC",
+        "description": "Pagina web para la empresa Aluvipac ubicada en la ciudad de Cancun.",
+        "features": {
+            "mail": "Envio de correos electronicos",
+            "contact": "Formulario de contacto",
+            "database": "Prisma db para la base de datos"
+        }
+    },
+    "hrc": {
+        "name": "HRC Intern Management",
+        "date": "2024 - 2024",
+        "repository": "Privado",
+        "description": "Plataforma web para la empresa Hard Rock Hotel Cancun, enfocado a la parte del frontend esta plataforma pretende ser una herramienta de gestión de practicantes.",
+        "features": {
+            "practicants": "Gestion de practicantes",
+            "versioning": "Control de versiones",
+            "ws": "Web sockets",
+            "pdf": "Generacion de documentos PDF",
+            "charts": "Visualizacion de datos",
+            "charts2": "Visualizacion de graficos"
+        }
+    },
+    "banking": {
+        "name": "Banking Movile App",
+        "date": "2024 - 2024",
+        "repository": "Privado",
+        "description": "Aplicación de banco movil realizada en Flutter como parte de un proyecto escolar.",
+        "features": {
+            "banking": "Aplicación de banco movil",
+            "api": "Integración de APIs",
+            "versioning": "Control de versiones",
+            "notifications": "Envio de notificaciones"
+        }
+    },
+    "sipse": {
+        "name": "SIPSE TVCUN Management System",
+        "date": "2023 - 2023",
+        "repository": "https://github.com/Albertofuentes00/Newsnet-sipsetv",
+        "description": "Plataforma web para la empresa SIPSE TVCUN, desarrollo fullstack de una api en C#, base de datos mysql y un frontend en React.js, esta plataforma pretende ser una herramienta para la gestion de noticias.",
+        "features": {
+            "tables": "Tablas interactivas",
+            "pdf": "Generacion de documentos en PDF",
+            "automation": "Automatización de tareas",
+            "versioning": "Control de versiones"
+        }
+    },
+    "acervo": {
+        "name": "Plataforma de memorias de la universidad Politecnica de Quintana Roo",
+        "date": "2023 - 2023",
+        "repository": "Privado",
+        "description": "Plataforma web para la universidad Politecnica de Quintana Roo, esta plataforma pretende ser una herramienta para la gestion de las memorias de los proximos egresados y la publicacion de ellas.",
+        "features": {
+            "memories": "Gestion de memorias de estudiantes",
+            "mails": "Envio de correos electronicos",
+            "plugins": "Integración de plugins",
+            "versioning": "Control de versiones",
+            "pdf": "Visualización de PDFs"
+        }
+    },
+    "mythschool": {
+        "name": "MythSchool",
+        "date": "2022 - 2022",
+        "repository": "https://github.com/LeonardoDRebollo/PFmyschool",
+        "description": "Plataforma web para la busqueda de instituciones educativas, desarrollo fullstack MVC en .NET, esta plataforma pretende ser una herramienta para la busqueda de instituciones educativas en el estado de Quintana Roo.",
+        "features": {
+            "search": "Busqueda de instituciones",
+            "versioning": "Control de versiones",
+            "form": "Formulario de contacto",
+            "api": "API en .NET",
+            "mvc": "Desarrollo MVC",
+            "responsive": "Diseño responsive"
+        }
+    },
+    "radio": {
+        "name": "Radio Difusora",
+        "date": "2022 - 2022",
+        "repository": "Privado",
+        "description": "Aplicación windows para la gestion de programas de radio, proyecto escolar en C#.",
+        "features": {
+            "radio": "Gestion de Radio difusoras",
+            "xml": "XML",
+            "desktop": "Aplicación de escritorio",
+            "net": ".NET",
+            "mvc": "Desarrollo MVC"
+        }
+    },
+     "petmania": {
+        "name": "Petmania",
+        "date": "2019 - 2019",
+        "repository": "Privado",
+        "description": "Aplicación windows para la gestion de mascotas, proyecto escolar en Java.",
+        "features": {
+            "pets": "Gestion de citas para mascotas",
+            "versioning": "Control de versiones",
+            "java": "Desarrollo en Java",
+            "desktop": "Aplicación de escritorio"
+        }
+    }
+    
+}
